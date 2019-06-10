@@ -17,7 +17,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 import cv2
 from scipy.signal import find_peaks
-import pandas as pd
 plt.close('all')
 
 img = cv2.imread('14-22-43.png')
